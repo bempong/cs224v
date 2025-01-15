@@ -2,8 +2,10 @@
 
 RAG-based agent conversant with topics related to Stanford's CS 224V (Conversational Virtual Assistants with Deep Learning) course lectures and supplementary materials. Capable of contextual memory, query rewriting, and coherence throughout multi-turn dialogue.
 
-## Try it here
+## View Experimentation/Findings 
+[Read Paper](https://drive.google.com/file/d/1usEMfVbPa1hjAXmAQmwSTPivvrzRpaAJ/view?usp=sharing)
+
+## Try it out here!
 https://cs224vlecturebot.streamlit.app/
 
-## View Experimentation/Findings 
-[View PDF](https://drive.google.com/file/d/1usEMfVbPa1hjAXmAQmwSTPivvrzRpaAJ/view?usp=sharing)
+
